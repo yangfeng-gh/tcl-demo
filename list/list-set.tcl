@@ -1,4 +1,5 @@
 #!/usr/bin/tclsh
 
 set var {orange blue red green}
-puts [llength $var]
+lset var 0 black
+puts $var ;#black blue red green
