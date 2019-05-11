@@ -1,5 +1,5 @@
 ---
-typora-root-url: ..\..\images
+typora-root-url: ../../.assets
 ---
 
 ## 下载
